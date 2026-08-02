@@ -1,4 +1,4 @@
-# -sales-profit-performance-dashboard
+# Sales-profit-performance-dashboard
 An interactive Excel dashboard analyzing sales, profit, and customer 
 performance across regions, categories, and time periods.
 
